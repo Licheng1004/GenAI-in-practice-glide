@@ -1,3 +1,19 @@
+# Learning repository — attribution
+
+**Original repository:** [EmertonData/glide](https://github.com/EmertonData/glide)
+
+**Original authors / maintainers:** Emerton Data and GLIDE contributors
+
+**Purpose of this fork:** study, coursework and reference.
+
+This is a study copy of the GLIDE library, not a library originally developed by me.
+
+Fork ownership does not imply authorship of the upstream project. Original license notices, credits and contribution history are retained; consult the upstream repository and the license files below for reuse terms.
+
+---
+
+## Original upstream README
+
 
 
 <p align="center">
